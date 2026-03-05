@@ -1,0 +1,67 @@
+Copyright (c) 2026 Nik121
+
+All rights reserved.
+
+1. Grant of Permission
+
+This software (the “Mod”) is provided free of charge for personal use. Users are granted a limited, non-exclusive, non-transferable license to download, install, and use the Mod for personal entertainment purposes.
+
+2. Modpack Distribution
+
+This Mod may be included in modpacks without requesting prior permission, provided that:
+
+The Mod is distributed in its original, unmodified form.
+
+The Modpack does not alter, decompile, or modify the Mod.
+
+Proper credit to the original author is provided.
+
+The Modpack does not claim ownership of the Mod.
+
+3. Redistribution Restrictions
+
+Except as explicitly allowed in Section 2, redistribution of this Mod is strictly prohibited without prior written permission from the author.
+
+This includes but is not limited to:
+
+Reuploading the Mod to other websites
+
+Hosting the Mod file on mirrors or file-sharing platforms
+
+Including the Mod in software collections or download bundles
+
+Uploading the Mod to monetized download platforms
+
+All users must obtain the Mod only from the official distribution source provided by the author.
+
+4. Modifications and Derivatives
+
+Users may not modify, reverse engineer, decompile, or create derivative works of this Mod for redistribution without explicit permission from the author.
+
+Private modifications for personal use are permitted but may not be distributed in any form.
+
+5. Commercial Use
+
+This Mod may not be sold or used for commercial purposes without explicit permission from the author.
+
+This includes:
+
+Selling the Mod directly
+
+Locking the Mod behind paywalls
+
+Using the Mod as part of paid software packages
+
+6. Liability Disclaimer
+
+This Mod is provided “as is”, without warranty of any kind, express or implied.
+
+The author shall not be held liable for any damages, data loss, or issues resulting from the use of this Mod.
+
+7. Termination
+
+Failure to comply with the terms of this license automatically terminates the permissions granted under it.
+
+8. Changes to License
+
+The author reserves the right to modify or update this license for future versions of the Mod.
